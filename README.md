@@ -1,4 +1,4 @@
-# discipline-embeddings
+# Code for "Investigating patterns of change, stability, and interaction among scientific disciplines using embeddings"
 Code for the article "Investigating patterns of change, stability, and interaction among scientific disciplines using embeddings", co-authored with Gard B Jenset, Khalid Salama and Donna Schut.
 
 ## Generate embeddings
